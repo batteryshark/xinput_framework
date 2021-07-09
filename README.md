@@ -1,2 +1,1 @@
-# xinput_framework
- Basic substrate to include XInput in applications
+A substrate to connect xinput devices to applications.
